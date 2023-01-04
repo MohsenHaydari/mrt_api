@@ -1,0 +1,44 @@
+{
+  "id": 1,
+  "locale": [
+    {
+      "updated": "2023-01-01T14:03:35.794545Z",
+      "iso2": "en",
+      "country_code": "US",
+      "translate_key": "lang_en",
+      "native_name": "English"
+    },
+    {
+      "updated": "2023-01-01T14:03:35.794545Z",
+      "iso2": "fa",
+      "country_code": "IR",
+      "translate_key": "lang_fa",
+      "native_name": "فارسی"
+    },
+    {
+      "updated": "2023-01-01T14:03:35.794545Z",
+      "iso2": "fr",
+      "country_code": "FR",
+      "translate_key": "lang_fr",
+      "native_name": "Français"
+    }
+  ],
+  "privacy_url": "http://192.168.1.101:8000/rules/",
+  "agreement_url": "http://192.168.1.101:8000/rules/",
+  "messenger_url": "ws://192.168.1.101:27015",
+  "media": "http://192.168.1.101:8000/media/",
+  "contracts_percentage": 1,
+  "current_version": "3.2.1",
+  "update_information": "2022-08-19T16:22:19Z",
+  "store_listening": [
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.mrtnetwork.mrt",
+      "name": "Google play",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2F9to5google.com%2F2022%2F07%2F27%2Fgoogle-play-new-logo-2022%2F&psig=AOvVaw2Dq3ZMUL0X90QVdFpqwzOb&ust=1665504455933000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOiE89yF1voCFQAAAAAdAAAAABAE",
+      "status": "online",
+      "status_message": "The server is being updated. Please try again later"
+    }
+  ],
+  "server_message": null,
+  "server_is_online": true
+}
