@@ -39,6 +39,6 @@
       "status_message": "The server is being updated. Please try again later"
     }
   ],
-  "server_message": "Hi Server is offline for 5 hours",
-  "server_is_online": false
+  "server_message": null,
+  "server_is_online": true
 }
