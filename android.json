@@ -1,163 +1,163 @@
 {
-  "id": 1,
-  "locale": [
-    {
-      "updated": "2023-01-01T14:03:35.794545Z",
-      "iso2": "en",
-      "country_code": "US",
-      "translate_key": "lang_en",
-      "native_name": "English"
-    },
-    {
-      "updated": "2023-01-01T14:03:35.794545Z",
-      "iso2": "fa",
-      "country_code": "IR",
-      "translate_key": "lang_fa",
-      "native_name": "فارسی"
-    },
-    {
-      "updated": "2023-01-01T14:03:35.794545Z",
-      "iso2": "fr",
-      "country_code": "FR",
-      "translate_key": "lang_fr",
-      "native_name": "Français"
-    },
-    {
-      "updated": "2023-01-01T14:03:35Z",
-      "iso2": "ar",
-      "country_code": "AE",
-      "translate_key": "lang_ae",
-      "native_name": "العربية"
-    },
-    {
-      "updated": "2023-01-01T14:03:35Z",
-      "iso2": "it",
-      "country_code": "IT",
-      "translate_key": "lang_it",
-      "native_name": "Italiano"
-    },
-    {
-      "updated": "2023-01-01T14:03:35Z",
-      "iso2": "sv",
-      "country_code": "SE",
-      "translate_key": "lang_sv",
-      "native_name": "Svenska"
-    },
-    {
-      "updated": "2023-01-01T14:03:35Z",
-      "iso2": "zh",
-      "country_code": "SG",
-      "translate_key": "lang_zh_sg",
-      "native_name": "中文 ( 简体 )"
-    },
-    {
-      "updated": "2023-01-01T14:03:35Z",
-      "iso2": "zh",
-      "country_code": "TW",
-      "translate_key": "lang_zh_tw",
-      "native_name": "中文（繁體）"
-    },
-    {
-      "updated": "2023-01-01T14:03:35Z",
-      "iso2": "ja",
-      "country_code": "JP",
-      "translate_key": "lang_ja",
-      "native_name": "日本"
-    },
-    {
-      "updated": "2023-01-01T14:03:35Z",
-      "iso2": "de",
-      "country_code": "DE",
-      "translate_key": "lang_de",
-      "native_name": "Deutsch"
-    },
-    {
-      "updated": "2023-01-01T14:03:35Z",
-      "iso2": "ru",
-      "country_code": "RU",
-      "translate_key": "lang_ru",
-      "native_name": "Pусский"
-    },
-    {
-      "updated": "2023-01-01T14:03:35Z",
-      "iso2": "af",
-      "country_code": "NA",
-      "translate_key": "lang_af",
-      "native_name": "Afrikaans"
-    },
-    {
-      "updated": "2023-01-01T14:03:35Z",
-      "iso2": "ko",
-      "country_code": "KP",
-      "translate_key": "lang_ko",
-      "native_name": "한국인"
-    },
-    {
-      "updated": "2023-01-01T14:03:35Z",
-      "iso2": "in",
-      "country_code": "ID",
-      "translate_key": "lang_in",
-      "native_name": "Bahasa Indonesia"
-    },
-    {
-      "updated": "2023-01-01T14:03:35Z",
-      "iso2": "ms",
-      "country_code": "MY",
-      "translate_key": "lang_ms",
-      "native_name": "Melayu"
-    },
-    {
-      "updated": "2023-01-01T14:03:35Z",
-      "iso2": "da",
-      "country_code": "DK",
-      "translate_key": "lang_da",
-      "native_name": "Dansk"
-    },
-    {
-      "updated": "2023-01-01T14:03:35Z",
-      "iso2": "es",
-      "country_code": "ES",
-      "translate_key": "lang_es",
-      "native_name": "Español"
-    },
-    {
-      "updated": "2023-01-01T14:03:35Z",
-      "iso2": "hr",
-      "country_code": "HR",
-      "translate_key": "lang_hr",
-      "native_name": "Hrvatski"
-    },
-    {
-      "updated": "2023-01-01T14:03:35Z",
-      "iso2": "hu",
-      "country_code": "HU",
-      "translate_key": "lang_hu",
-      "native_name": "Magyar"
-    },
-    {
-      "updated": "2023-01-01T14:03:35Z",
-      "iso2": "nl",
-      "country_code": "NL",
-      "translate_key": "lang_nl",
-      "native_name": "Nederlands"
-    }
-  ],
-  "privacy_url": "http://192.168.1.101:8000/rules/",
-  "agreement_url": "http://192.168.1.101:8000/rules/",
-  "messenger_url": "ws://192.168.1.101:27015",
-  "media": "http://192.168.1.101:8000/media/",
-  "contracts_percentage": 1,
-  "current_version": "3.2.1",
-  "update_information": "2022-08-19T16:22:19Z",
-  "store_listening": [
-    {
-      "url": "https://play.google.com/store/apps/details?id=com.mrtnetwork.mrt",
-      "name": "Google play",
-      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2F9to5google.com%2F2022%2F07%2F27%2Fgoogle-play-new-logo-2022%2F&psig=AOvVaw2Dq3ZMUL0X90QVdFpqwzOb&ust=1665504455933000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOiE89yF1voCFQAAAAAdAAAAABAE",
-      "status": "online",
-      "status_message": "The server is being updated. Please try again later"
-    }
-  ],
-  "server_message": null,
-  "server_is_online": true
-}
+    "id": 1,
+    "locale": [
+      {
+        "version": 1,
+        "iso2": "fa",
+        "country_code": "IR",
+        "translate_key": "lang_fa",
+        "native_name": "فارسی"
+      },
+      {
+        "version": 1,
+        "iso2": "en",
+        "country_code": "US",
+        "translate_key": "lang_en",
+        "native_name": "English"
+      },
+      {
+        "version": 1,
+        "iso2": "ar",
+        "country_code": "AE",
+        "translate_key": "lang_ae",
+        "native_name": "العربية"
+      },
+      {
+        "version": 1,
+        "iso2": "it",
+        "country_code": "IT",
+        "translate_key": "lang_it",
+        "native_name": "Italiano"
+      },
+      {
+        "version": 1,
+        "iso2": "sv",
+        "country_code": "SE",
+        "translate_key": "lang_sv",
+        "native_name": "Svenska"
+      },
+      {
+        "version": 1,
+        "iso2": "zh",
+        "country_code": "CN",
+        "translate_key": "lang_zh_cn",
+        "native_name": "中文 ( 简体 )"
+      },
+      {
+        "version": 1,
+        "iso2": "ja",
+        "country_code": "JP",
+        "translate_key": "lang_ja",
+        "native_name": "日本"
+      },
+      {
+        "version": 1,
+        "iso2": "de",
+        "country_code": "DE",
+        "translate_key": "lang_de",
+        "native_name": "Deutsch"
+      },
+      {
+        "version": 1,
+        "iso2": "fr",
+        "country_code": "FR",
+        "translate_key": "lang_fr",
+        "native_name": "Français"
+      },
+      {
+        "version": 1,
+        "iso2": "ru",
+        "country_code": "RU",
+        "translate_key": "lang_ru",
+        "native_name": "Pусский"
+      },
+      {
+        "version": 1,
+        "iso2": "af",
+        "country_code": "NA",
+        "translate_key": "lang_af",
+        "native_name": "Afrikaans"
+      },
+      {
+        "version": 1,
+        "iso2": "zh",
+        "country_code": "TW",
+        "translate_key": "lang_zh_tw",
+        "native_name": "中文（繁體）"
+      },
+      {
+        "version": 1,
+        "iso2": "ko",
+        "country_code": "KP",
+        "translate_key": "lang_ko",
+        "native_name": "한국인"
+      },
+      {
+        "version": 1,
+        "iso2": "in",
+        "country_code": "ID",
+        "translate_key": "lang_in",
+        "native_name": "Bahasa Indonesia"
+      },
+      {
+        "version": 1,
+        "iso2": "ms",
+        "country_code": "MY",
+        "translate_key": "lang_ms",
+        "native_name": "Melayu"
+      },
+      {
+        "version": 1,
+        "iso2": "da",
+        "country_code": "DK",
+        "translate_key": "lang_da",
+        "native_name": "Dansk"
+      },
+      {
+        "version": 1,
+        "iso2": "es",
+        "country_code": "ES",
+        "translate_key": "lang_es",
+        "native_name": "Español"
+      },
+      {
+        "version": 1,
+        "iso2": "hr",
+        "country_code": "HR",
+        "translate_key": "lang_hr",
+        "native_name": "Hrvatski"
+      },
+      {
+        "version": 1,
+        "iso2": "hu",
+        "country_code": "HU",
+        "translate_key": "lang_hu",
+        "native_name": "Magyar"
+      },
+      {
+        "version": 1,
+        "iso2": "nl",
+        "country_code": "NL",
+        "translate_key": "lang_nl",
+        "native_name": "Nederlands"
+      }
+    ],
+    "privacy_url": "https://mrtnetwork.com/#privacy",
+    "agreement_url": "https://mrtnetwork.com/",
+    "messenger_url": "wss://socket.mrtnetwork.com/ws/",
+    "media": "https://mrtnetwork.com/media/",
+    "contracts_percentage": 1,
+    "current_version": "3.2.0",
+    "update_information": "2023-01-05T12:38:09Z",
+    "store_listening": [
+      {
+        "url": "https://play.google.com/store/apps/details?id=com.mrtnetwork.mrt",
+        "name": "Google play",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2F9to5google.com%2F2022%2F07%2F27%2Fgoogle-play-new-logo-2022%2F&psig=AOvVaw2Dq3ZMUL0X90QVdFpqwzOb&ust=1665504455933000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOiE89yF1voCFQAAAAAdAAAAABAE",
+        "status": "online",
+        "status_message": "The server is being updated. Please try again later"
+      }
+    ],
+    "server_message": null,
+    "server_is_online": true
+  }
