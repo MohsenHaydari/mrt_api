@@ -1,0 +1,251 @@
+[
+  {
+    "name": "Ethereum-Goerli",
+    "chainId": "5",
+    "rcp_url": "https://goerli.infura.io/v3/c99e5717fee04142a437fb7aac7db495",
+    "image": "http://mrtnetwork.com//media/wallet_images/Ethereum-goerli/Ethereum-ETH-icon.large.png",
+    "native_token": {
+      "name": "Ethereum",
+      "market_name": "ethereum",
+      "decimal_place": 6,
+      "token_decimal": 18,
+      "symbol": "TETH"
+    },
+    "support_eip1159": true,
+    "chain_type": "ETH",
+    "extra_data": {
+      "network": 1,
+      "address_url": "https://goerli.etherscan.io/address/#contract#",
+      "assets_address_url": "https://goerli.etherscan.io/token/#contract#",
+      "trc10_assets_url": null,
+      "transaction_url": "https://goerli.etherscan.io/tx/#t#",
+      "abi_tracker": "https://api-goerli.etherscan.io/api?module=contract&action=getabi&address=#contract#",
+      "faucet_link": null,
+      "extra_data": null
+    }
+  },
+  {
+    "name": "BSC-Testnet",
+    "chainId": "97",
+    "rcp_url": "https://data-seed-prebsc-2-s3.binance.org:8545",
+    "image": "http://mrtnetwork.com//media/wallet_images/BscScan-testnet/Binance-Coin-BNB-icon.large.png",
+    "native_token": {
+      "name": "BNB",
+      "market_name": "binancecoin",
+      "decimal_place": 8,
+      "token_decimal": 18,
+      "symbol": "TBNB"
+    },
+    "support_eip1159": false,
+    "chain_type": "ETH",
+    "extra_data": {
+      "network": 2,
+      "address_url": "https://testnet.bscscan.com/address/#contract#",
+      "assets_address_url": "https://testnet.bscscan.com/token/#contract#",
+      "trc10_assets_url": null,
+      "transaction_url": "https://testnet.bscscan.com/tx/#t#",
+      "abi_tracker": "https://api-testnet.bscscan.com/api?module=contract&action=getabi&address=#contract#",
+      "faucet_link": null,
+      "extra_data": null
+    }
+  },
+  {
+    "name": "Polygon-Mumbai",
+    "chainId": "80001",
+    "rcp_url": "https://polygon-testnet.public.blastapi.io",
+    "image": "http://mrtnetwork.com//media/wallet_images/Polygon-Mumbai/polygon-token-4086724-3379854.large.png",
+    "native_token": {
+      "name": "Matic",
+      "market_name": "matic-network",
+      "decimal_place": 4,
+      "token_decimal": 18,
+      "symbol": "MATIC"
+    },
+    "support_eip1159": true,
+    "chain_type": "ETH",
+    "extra_data": {
+      "network": 3,
+      "address_url": "https://mumbai.polygonscan.com/address/#contract#",
+      "assets_address_url": "https://mumbai.polygonscan.com/token/#contract#",
+      "trc10_assets_url": null,
+      "transaction_url": "https://mumbai.polygonscan.com/tx/#t#",
+      "abi_tracker": "https://api-testnet.polygonscan.com/api?module=contract&action=getabi&address=#contract#",
+      "faucet_link": "https://faucet.polygon.technology/",
+      "extra_data": null
+    }
+  },
+  {
+    "name": "TRON-Shasta",
+    "chainId": "6666666",
+    "rcp_url": "https://api.shasta.trongrid.io/jsonrpc",
+    "image": "http://mrtnetwork.com//media/wallet_images/TRON-shasta/trx.large.png",
+    "native_token": {
+      "name": "TRON",
+      "market_name": "tron",
+      "decimal_place": 6,
+      "token_decimal": 6,
+      "symbol": "TRX"
+    },
+    "support_eip1159": true,
+    "chain_type": "TRON",
+    "extra_data": {
+      "network": 4,
+      "address_url": "https://shasta.tronscan.org/#/address/#contract#",
+      "assets_address_url": "https://shasta.tronscan.org/#/contract/#contract#",
+      "trc10_assets_url": "https://shasta.tronscan.org/#/token/#contract#/transfers",
+      "transaction_url": "https://shasta.tronscan.org/#/transaction/#t#",
+      "abi_tracker": "https://api.shasta.trongrid.io/wallet/getcontractinfo",
+      "faucet_link": null,
+      "extra_data": {
+        "nodeApi": "https://api.shasta.trongrid.io/",
+        "getAccount": "wallet/getaccount",
+        "getNowBlock": "wallet/getnowblock",
+        "broadCastHex": "wallet/broadcasthex",
+        "getEnergyFee": 280,
+        "chainParameters": "wallet/getchainparameters",
+        "getAssetIssueById": "wallet/getassetissuebyid",
+        "getTransactionFee": 1000,
+        "getAccountResource": "wallet/getaccountresource",
+        "getTransactionInfo": "wallet/gettransactioninfobyid",
+        "getAssetIssueByAccount": "wallet/getassetissuebyaccount"
+      }
+    }
+  },
+  {
+    "name": "Ethereum-Mainnet",
+    "chainId": "1",
+    "rcp_url": "https://mainnet.infura.io/v3/7bd7d0b3dfe84ebea8497f242360db6c",
+    "image": "http://mrtnetwork.com//media/wallet_images/Ethereum/Ethereum-ETH-icon_b7oZLcW.large.png",
+    "native_token": {
+      "name": "Ethereum",
+      "market_name": "ethereum",
+      "decimal_place": 6,
+      "token_decimal": 18,
+      "symbol": "ETH"
+    },
+    "support_eip1159": true,
+    "chain_type": "ETH",
+    "extra_data": {
+      "network": 5,
+      "address_url": "https://etherscan.io/address/#contract#",
+      "assets_address_url": "https://etherscan.io/token/#contract#",
+      "trc10_assets_url": null,
+      "transaction_url": "https://etherscan.io/tx/#t#",
+      "abi_tracker": "https://api.etherscan.io/api?module=contract&action=getabi&address=#contract#",
+      "faucet_link": null,
+      "extra_data": null
+    }
+  },
+  {
+    "name": "Polygon-Mainnet",
+    "chainId": "137",
+    "rcp_url": "https://rpc-mumbai.matic.today",
+    "image": "http://mrtnetwork.com//media/wallet_images/Polygon/polygon-token-4086724-3379854.large.png",
+    "native_token": {
+      "name": "Matic",
+      "market_name": "matic-network",
+      "decimal_place": 4,
+      "token_decimal": 18,
+      "symbol": "MATIC"
+    },
+    "support_eip1159": true,
+    "chain_type": "ETH",
+    "extra_data": {
+      "network": 6,
+      "address_url": "https://polygonscan.com/address/#contract#",
+      "assets_address_url": "https://polygonscan.com/token/#contract#",
+      "trc10_assets_url": null,
+      "transaction_url": "https://polygonscan.com/tx/#t#",
+      "abi_tracker": "https://api.polygonscan.com/api?module=contract&action=getabi&address=#contract#",
+      "faucet_link": null,
+      "extra_data": null
+    }
+  },
+  {
+    "name": "TRON-Mainnet",
+    "chainId": "555555",
+    "rcp_url": "https://api.trongrid.io/jsonrpc",
+    "image": "http://mrtnetwork.com//media/wallet_images/TRON/trx_lzF5CPG.large.png",
+    "native_token": {
+      "name": "TRON",
+      "market_name": "tron",
+      "decimal_place": 6,
+      "token_decimal": 6,
+      "symbol": "TRX"
+    },
+    "support_eip1159": true,
+    "chain_type": "TRON",
+    "extra_data": {
+      "network": 7,
+      "address_url": "https://tronscan.org/#/address/#contract#",
+      "assets_address_url": "https://tronscan.org/#/contract/#contract#",
+      "trc10_assets_url": "https://tronscan.org/#/token/#contract#/transfers",
+      "transaction_url": "https://tronscan.org/#/transaction/#t#",
+      "abi_tracker": "https://api.trongrid.io/wallet/getcontractinfo",
+      "faucet_link": null,
+      "extra_data": {
+        "nodeApi": "https://api.trongrid.io/",
+        "getAccount": "wallet/getaccount",
+        "getNowBlock": "wallet/getnowblock",
+        "broadCastHex": "wallet/broadcasthex",
+        "getEnergyFee": 280,
+        "chainParameters": "wallet/getchainparameters",
+        "getAssetIssueById": "wallet/getassetissuebyid",
+        "getTransactionFee": 1000,
+        "getAccountResource": "wallet/getaccountresource",
+        "getTransactionInfo": "wallet/gettransactioninfobyid",
+        "getAssetIssueByAccount": "wallet/getassetissuebyaccount"
+      }
+    }
+  },
+  {
+    "name": "BSC-Mainnet",
+    "chainId": "56",
+    "rcp_url": "https://bsc-dataseed1.binance.org/",
+    "image": "http://mrtnetwork.com//media/wallet_images/BSC/Binance-Coin-BNB-icon.large.png",
+    "native_token": {
+      "name": "BNB",
+      "market_name": "binancecoin",
+      "decimal_place": 8,
+      "token_decimal": 18,
+      "symbol": "BNB"
+    },
+    "support_eip1159": true,
+    "chain_type": "ETH",
+    "extra_data": {
+      "network": 8,
+      "address_url": "https://bscscan.com/address/#contract#",
+      "assets_address_url": "https://bscscan.com/token/#contract#",
+      "trc10_assets_url": null,
+      "transaction_url": "https://bscscan.com/tx/#t#",
+      "abi_tracker": "https://api.bscscan.com/api?module=contract&action=getabi&address=#contract#",
+      "faucet_link": null,
+      "extra_data": null
+    }
+  },
+  {
+    "name": "MRT-Testnet",
+    "chainId": "112288",
+    "rcp_url": "https://socket.mrtnetwork.com/rpc/",
+    "image": "http://mrtnetwork.com//media/default/no_img.large.png",
+    "native_token": {
+      "name": "MRT NETWORK",
+      "market_name": "ethereum",
+      "decimal_place": 6,
+      "token_decimal": 18,
+      "symbol": "MRT"
+    },
+    "support_eip1159": false,
+    "chain_type": "ETH",
+    "extra_data": {
+      "network": 9,
+      "address_url": null,
+      "assets_address_url": null,
+      "trc10_assets_url": null,
+      "transaction_url": null,
+      "abi_tracker": null,
+      "faucet_link": null,
+      "extra_data": null
+    }
+  }
+]
